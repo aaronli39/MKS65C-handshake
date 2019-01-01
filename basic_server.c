@@ -2,6 +2,8 @@
 #include <signal.h>
 #include "pipe_networking.h"
 
+// got code from joan lol
+
 int to_client;
 int from_client = -1;
 
